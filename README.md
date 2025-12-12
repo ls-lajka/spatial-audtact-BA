@@ -1,5 +1,6 @@
 ======READ ME========
-Seven types of spatial sound stimuli, correspondingto seven horizontal spatial positions — coded accordingly: 
+
+Seven types of spatial sound stimuli, corresponding to seven horizontal spatial positions — coded accordingly: 
 9: 90º, 10: 60º, 11: 30º to the left of participant, 
 one in front — 12: 0º,
 and 1: 30º, 2: 60º, 3: 90º to the right, 
